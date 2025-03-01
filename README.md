@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=99abin&label=Profile%20views&color=0e75b6&style=flat" alt="99abin" /> </p>
 
-- 👀 I'm interested in machine learning, hardware programming, web development, data science, and cyber security
+- 👀 I'm interested in machine learning, data science, and image processing
 
-- 🌱 I’m currently learning **Hardware programming**
+- 🌱 I’m currently learning **Image Processing**
 
 - 📫 How to reach me **bintanghidayatullah021@gmail.com**
 
