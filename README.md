@@ -6,7 +6,7 @@
 
 - 👀 I'm interested in machine learning, data science, and image processing/computer vision
 
-- 🌱 I’m currently learning **Image Processing**
+- 🌱 I’m currently learning **Image Processing** and **DSA**
 
 - 📫 How to reach me **bintanghidayatullah021@gmail.com**
 
